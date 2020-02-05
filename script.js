@@ -1,7 +1,7 @@
 window.addEventListener("load", function() {
   var sounds = document.querySelectorAll(".sound");
   var pads = document.querySelectorAll(".pads div");
-  var visual = document.querySelectorAll(".visual");
+  var visual = document.querySelector(".visual");
   var colors = [
     "#60d394",
     "#d36060",
